@@ -1,5 +1,5 @@
 # Jokes
 Random Joke Generator application
 
-by ❤️
+by 
 - Ashwin Kumar R
